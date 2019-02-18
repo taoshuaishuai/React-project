@@ -1,0 +1,24 @@
+.h20{ height: 20px;}
+.login-box{ padding: 0 15px; }
+.login-box .form-box{ margin: 3rem 0 0;}
+.form-box .row-input{ height: 40px; width: 100%; line-height: 40px; border-radius: 5px; margin-bottom: 15px; background: #fff;}
+.form-box .row-l{ width: 40px; text-align: center;}
+.form-box .row-l .iconfont{ font-size: 1.2rem; color: #cecece;}
+.form-box .row-r{ margin-left: 40px;}
+.form-box .input_box{ width: 100%; height: 40px; border: none; outline: none;}
+.form-box .row-btn{height: 40px; width: 100%; line-height: 40px; border-radius: 5px; margin-bottom: 10px;text-align: center; }
+.form-box .row-btn a{ display: block;border-radius: 5px; }
+.form-box .row-btn a.green-btn{ border: 1px solid #40C8B9; background:#40C8B9;  color: #fff;}
+.form-box .row-btn a.boder-btn{ border: 1px solid #40C8B9; color: #40C8B9;}
+.form-box .row-txt{ height: 1.6rem; line-height: 1.6rem; }
+.form-box .row-txt a{ text-decoration:underline;}
+.form-box .row-txt .forget{float:right; color: #40C8B9; font-size: 0.8rem;}
+
+.otherway .title{ height: 0.8rem; text-align: center; border-bottom: 1px solid #cecece; margin-bottom: 2rem;}
+.otherway .title span{padding: 0 10px; background: #F3F7F7; font-size: 0.9rem; color: #cecece;}
+.otherway li{ width: 33.3%; float: left;}
+.otherway li a{ display: block; width: 3.2rem; height: 3.2rem; text-align: center; line-height: 3.2rem; border-radius: 50%; background: #fff; margin: 0 auto;}
+.otherway li a i{ font-size: 2rem;}
+.otherway li a.weibo i{ color: #e84c3d;}
+.otherway li a.qq i{ color: #3598db;}
+.otherway li a.weixin i{ color: #2dcc70;}

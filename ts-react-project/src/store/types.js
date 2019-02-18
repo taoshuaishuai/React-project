@@ -1,0 +1,11 @@
+export const VIEW_NAV = 'VIEW_NAV';
+export const VIEW_FOOT = 'VIEW_FOOT';
+export const VIEW_LOADING = 'VIEW_LOADING';
+export const UPDATE_COLUMN1 = 'UPDATE_COLUMN1';
+export const UPDATE_COLUMN2 = 'UPDATE_COLUMN2';
+export const UPDATE_COLUMN3 = 'UPDATE_COLUMN3';
+export const UPDATE_COLUMN4 = 'UPDATE_COLUMN4';
+export const UPDATE_MEILIST = 'UPDATE_MEILIST';
+export const UPDATE_DETAIL = 'UPDATE_DETAIL';
+export const CHECK_USER = 'CHECK_USER';
+export const CHECK_AUTH = 'CHECK_AUTH';

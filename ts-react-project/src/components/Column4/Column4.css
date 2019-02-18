@@ -1,0 +1,18 @@
+.column-4 .title{border-bottom: 1px solid #42bde5; }
+.column-4 .titletext{ color: #42bde5;}
+.column{ background: #fff; margin-bottom: 15px; }
+.column .title{ height: 30px; line-height: 30px; padding: 5px 10px 0;}
+.column .titletext i{ float: left; font-size: 20px; padding-right: 5px;}
+.column .title .more{ font-size: 0.75rem;}
+.imgtxt-list{padding-bottom: 15px; }
+.imgtxt-list .con-list li { border-bottom: 1px #f3f7f7 solid;}
+.imgtxt-list .li-box { padding: 10px 15px; }
+.imgtxt-list .li-box .img{ width: 24vw; height: 17vw;}
+.imgtxt-list .li-box img{ width: 24vw; height: 17vw;}
+.imgtxt-list .li-box .txt-box{ margin-left: 24vw; padding-left: 15px; }
+.imgtxt-list .li-box .txt-box .txt{ height: 8vw; line-height: 8vw;overflow: hidden;text-overflow: ellipsis;white-space: nowrap;}
+.imgtxt-list .info{ line-height: 1.8rem;overflow: hidden;text-overflow: ellipsis;white-space: nowrap;}
+.imgtxt-list .info span{display: block; float: left;color: #8f8f8f;font-size: 0.65rem; padding-right: 5px;}
+.imgtxt-list .info span.author{ float: right; padding-right: 0;}
+.imgtxt-list .info span i{ float: left;}
+.imgtxt-list .author img{ height: 1.8rem; width: 1.8rem; border-radius: 50%; float: left;margin:0px 5px 0 0;}

@@ -1,0 +1,61 @@
+.register-box{ padding: 20px 15px 0; }
+.register-box .row span,.register-box .row label{ float: left; color: #a9a9a9; font-size: 0.85rem;}
+.register-box .row label{ margin-left: 1.5rem;}
+.register-box .row label input{ margin-right: 5px;}
+.register-box .row-txt{ margin-bottom: 10px;}
+.register-box .row-txt p{font-size: 0.85rem;margin-left: 40px;}
+.register-box .row-txt .checkbox{ 
+    width: 16px;
+    height: 16px;
+    margin: 0.3rem 0.3rem 0 0;
+    position: relative;
+    background: #fff;
+    border: solid 1px #dddddd;
+    border-radius: 3px;
+    -webkit-appearance: none;
+    transition: background-color ease 0.1s;
+    outline: none;
+    float: left;
+    }
+.register-box .row-txt .checkbox:checked:after{
+    content: "";
+    background:url(../../assets/images/icon-agree.png) -20px -2px no-repeat;
+    background-size: 36px 16px; 
+    display: block; 
+    height: 16px; 
+    width: 16px; 
+    }
+
+.register-table{ margin: 20px 0;}
+.register-table table{ width: 100%;background: #fff; border-collapse: collapse;}
+.register-table th{text-align: center; color: #f96a26; font-size: 0.9rem; font-weight: normal; }
+.register-table td{text-align: center;font-size: 0.8rem;}
+.register-table td.td-1{ color: #ffc657;}
+.register-table td.td-1 span,.register-table td.td-3{color: #f96a26;}
+.register-table td.td-2{ color: #929292;}
+.register-table th,.register-table td{ height: 2rem; line-height: 2rem; border-bottom: 1px solid #F3F7F7;border-left: 1px solid #F3F7F7;}
+
+.btn-radio {
+    width: 16px;
+    height: 16px;
+    position: relative;
+    margin: 13px 5px;
+    background: #ffffff;
+    border: solid 1px #dddddd;
+    border-radius: 50%;
+    display: table;
+    float: left;
+    -webkit-appearance: none;
+    transition: background-color ease 0.1s;
+    outline: none;
+}
+.btn-radio:checked{ border: 1px solid #40C8B9;}
+.btn-radio:checked:after{
+    content: "";
+    background-color:#40C8B9; 
+    display: block; 
+    height: 8px; 
+    width: 8px; 
+    margin: 4px; 
+    border-radius: 50%;
+    }

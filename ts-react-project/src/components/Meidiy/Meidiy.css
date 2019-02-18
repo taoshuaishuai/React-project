@@ -1,0 +1,13 @@
+.meidiy{ padding: 20px 0;}
+.meidiy li{ margin-bottom: 15px; background: #fff; border-top: 1px solid #f0f0f0;border-bottom: 1px solid #f0f0f0;}
+.meidiy li .item{ padding: 15px 20px;}
+.meidiy .item .pic{ width: 60px; height: 60px; line-height: 60px; text-align: center; border-radius: 50%; background: #fa669a;}
+.meidiy .item .pic i{ font-size: 30px; color: #fff;}
+.meidiy .item.item-2 .pic{ background: #ffb053;}
+.meidiy .item.item-3 .pic{ background: #6cdc55;}
+.meidiy .txt-box{ margin-left: 80px;}
+.meidiy .item h2{ line-height: 2.2rem;}
+.meidiy .item-1 h2{ color: #fa669a;}
+.meidiy .item-2 h2{ color: #ffb053;}
+.meidiy .item-3 h2{ color: #6cdc55;}
+.meidiy .item .txt-box p{font-size: 0.8rem;line-height: 1.6rem; overflow: hidden;text-overflow: ellipsis;white-space: nowrap;}

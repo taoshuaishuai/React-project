@@ -1,0 +1,17 @@
+.column-1 .title{border-bottom: 1px solid #fa669a; }
+.column-1 .titletext{ color: #fa669a;}
+.column{ background: #fff; margin-bottom: 15px; margin-top: 15px;}
+.column .title{ height: 30px; line-height: 30px; padding: 5px 10px 0;}
+.column .titletext i{ float: left; font-size: 20px; padding-right: 5px;}
+.column .title .more{ font-size: 0.75rem;}
+.column.card-list .con-list{ padding-top: 12px;}
+.card-list .con-list ul{ padding-right: 10px;}
+.card-list .con-list li{ width: 50%; float: left; margin-bottom: 15px;}
+.card-list .con-list li .photo-card{ margin-left: 10px;  background: #f3f7f7; height:64vw; border:5px solid #f3f7f7; }
+.card-list .photo-card .img{ width: 100%; height: 50vw;}
+.card-list .photo-card img{ width: 100%; height: 50vw;}
+.card-list .txt{font-size: 0.8rem; padding-top:5px; overflow: hidden;text-overflow: ellipsis;white-space: nowrap;}
+.card-list .info{line-height: 1.5rem; padding:5px 0;}
+.card-list .info span{ display: block; float: left; font-size: 0.6rem;padding-right: 5px;}
+.card-list .info span i{ float: left;}
+.card-list .author img{ height: 1.5rem; width: 1.5rem; border-radius: 50%; float: left; margin:0 2px 0 0;}

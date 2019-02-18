@@ -1,0 +1,8 @@
+.top-nav{ height: 45px; line-height: 45px; background: #fff;margin-bottom: 15px; }
+.top-nav li{ width: 33.3%; float: left; }
+.top-nav li span{ display: block; text-align: center; font-size: 0.9rem; border-left: 1px solid #f3f7f7;}
+.top-nav li:first-child{ border-left: none;}
+.top-nav li span i{ padding-right: 5px;}
+.Edit{ padding: 15px 0 0;}
+.edit-btn{ display: block; height: 40px; width: 40%; line-height: 40px; text-align: center; margin: 0 auto; border-radius: 20px; background: #58e5d6; color: #fff; font-size: 0.9rem;}
+.edit-btn i{ padding-right: 8px; font-size: 20px;}
